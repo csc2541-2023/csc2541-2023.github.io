@@ -36,7 +36,7 @@ export default function Home() {
             We've posted <Alert.Link href="/projectresources">project datasets and resources</Alert.Link> - make sure to check them out, as they might be helpful as you work on brainstorming for your course projects!
             <br></br>
             <div align="right">
-              <small>September 17, 2021</small>
+              <small>September 17, 2023</small>
             </div>
           </Alert>
 
