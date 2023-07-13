@@ -29,7 +29,7 @@ export default function Home() {
             We're moving classrooms! Starting on October 4, we'll be meeting in <a href="https://goo.gl/maps/S1q3m7v3T1e76r826" target="_blank">ES B142</a> instead of our usual UC 85.
             <br></br>
             <div align="right">
-              <small>October 1, 2021</small>
+              <small>October 1, 2023</small>
             </div>
           </Alert>
           <Alert variant="info">
