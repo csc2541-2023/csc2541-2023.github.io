@@ -25,16 +25,11 @@ export default function CourseStaff() {
                 <Row>
                     <Col>
                 {instructorProfile(
-                        "Michael Cooper", 
-                        "images/michael.jpg",
-                        "https://michaeljohncooper.com",
-                        "cs.toronto.edu",
-                        "coopermj")}
-                    </Col>
-                    <Col>
-                    {instructorProfileImgName(
-                        "Farnam Mansouri", 
-                        "images/farnam.jpg")}
+                        "Sujay Nagaraj", 
+                        "images/Nagaraj,Sujay.jpg",
+                        //"https://michaeljohncooper.com",
+                        "mail.utoronto.ca",
+                        "s.nagaraj")}
                     </Col>
                 </Row>
             </Col>
