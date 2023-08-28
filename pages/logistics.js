@@ -16,10 +16,10 @@ export default function Home() {
           <p>Your grade in this course will be composed of the following evaluations:</p>
           <ul>
             <li><b>5%</b>: Participation (attendance and engagement)</li>
-            <li><b>15%</b>: Paper Summary Assignment (completed individually)</li>
-            <li><b>15%</b>: Paper Presentations (completed in pairs)</li>
-            <li><b>10%</b>: Project Proposal (completed in project groups)</li>
-            <li><b>15%</b>: Project Presentation (completed in project groups)</li>
+            <li><b>20%</b>: Paper Summary Assignment (completed individually)</li>
+            {/* <li><b>15%</b>: Paper Presentations (completed in pairs)</li> */}
+            <li><b>15%</b>: Project Proposal (completed in project groups)</li>
+            <li><b>20%</b>: Project Presentation (completed in project groups)</li>
             <li><b>40%</b>: Project Final Report (completed in project groups)</li>
           </ul>
           <h5>Late Policy</h5>
@@ -31,8 +31,8 @@ export default function Home() {
             <li>Assume that you are working in a project group of two. You submit your Paper Summary Assignment two days late, while your partner submitted their Paper Summary on time. You and your project partner then submit your Project Proposal one day past the deadline. Your grade on the Project Proposal Report would receive a 30% discount (since you had previously exhausted all your late days), while your partner's grade would not be discounted (since they still had remaining late days).</li>
           </ul>
           <h5>Accessibility</h5>
-          <p>We are committed to making our classroom an accessible environment. We are currently seeking a volunteer who can scribe notes during lectures and presentations (to be posted publicly after each session) in exchange for 5% bonus credit in the course. If you are interested, please <a href="mailto:coopermj@cs.toronto.edu">email Michael</a>.</p>
-          <p>If you have any other accessibility requirements or concerns, please also <a href="mailto:coopermj@cs.toronto.edu">email Michael</a>.</p>
+          <p>We are committed to making our classroom an accessible environment. We are currently seeking a volunteer who can scribe notes during lectures and presentations (to be posted publicly after each session) in exchange for 5% bonus credit in the course. If you are interested, please <a href="mailto:s.nagaraj@mail.utoronto.ca">email Sujay</a>.</p>
+          <p>If you have any other accessibility requirements or concerns, please also <a href="mailto:s.nagaraj@mail.utoronto.ca">email Sujay</a>.</p>
           <br></br>
           <h2>FAQ</h2>
           <h5>Will this class provide me with compute for my final project?</h5>
