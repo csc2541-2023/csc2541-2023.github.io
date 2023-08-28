@@ -475,7 +475,16 @@ export default function Home() {
               </tr>
               <tr>
                 <td>11/23/2023 (Monday)</td>
-                <td>Lecture: <a href="lectures/csc2541_lecture12-causalinf2.pdf" target="_blank">Causality and Missingness II</a> <i>(Rahul Krishnan)</i></td>
+                <td>Student Project Presentations:</td>
+                <br></br>
+                <br></br>
+                <td>Student Project Presentations:</td>
+                <br></br>
+                <br></br>
+                <td>Student Project Presentations:</td>
+                <br></br>
+                <br></br>
+                <td>Student Project Presentations:</td>
                 <td></td>
                 {/* <td rowSpan="3" style={{verticalAlign: "middle"}}></td> */}
               </tr>
@@ -496,10 +505,16 @@ export default function Home() {
               <tr>
                 <td>11/30/2023 (Monday)</td>
                 <td>
-                  Student Project Presentation: <a href="project_presentations/CSC2541_PritishMishra_ProjectPresentation.pdf" target="_blank">Fledge: Edge-based Federated Learning Framework for Mobile Healthcare</a> (Pritish Mishra)
-                  <br></br>
-                  <br></br>
-                  Student Project Presentation: <a href="https://utoronto-my.sharepoint.com/:p:/g/personal/michael_cooper_mail_utoronto_ca/EYouIHhYzMFIhD6LKSCePQwB-_UtgnLQ2Y0b0SCUCr8sBg?e=uYwJJe" target="_blank">TabSurv: An Interpretable Deep Learning Survival Analysis for Tabular Data​</a> (Shihao Ma, Weiqing Wang, Cong Wei)
+                <td>Student Project Presentations:</td>
+                <br></br>
+                <br></br>
+                <td>Student Project Presentations:</td>
+                <br></br>
+                <br></br>
+                <td>Student Project Presentations:</td>
+                <br></br>
+                <br></br>
+                <td>Student Project Presentations:</td>
                 </td>
                 <td></td>
               </tr>
@@ -530,10 +545,16 @@ export default function Home() {
               <tr>
                 <td>12/07/2023 (Thursday)</td>
                 <td>
-                  Student Project Presentation: <a href="project_presentations/CSC2541_ZitongLi_CarolineMalin-Mayor_FilipMiscevic_ZixuanPan_ProjectPresentation.pdf" target="_blank">Assessing COVID-19 Status from Crowdsourced Cough Recordings</a> (Zitong Li, Caroline Malin-Mayor, Filip Miscevic, Zixuan Pan)
-                  <br></br>
-                  <br></br>
-                  Student Project Presentation: <a href="project_presentations/CSC2541_FatemeHaghpanah_BeiqinZeng_ZhongkangGuo_ProjectPresentation.pdf" target="_blank">Exploration of how MRI Acquisition Parameter Leads to Acquisition Shift</a> (Fateme Haghpanah, Beiqin Zeng, Zhongkang Guo)
+                <td>Student Project Presentations:</td>
+                <br></br>
+                <br></br>
+                <td>Student Project Presentations:</td>
+                <br></br>
+                <br></br>
+                <td>Student Project Presentations:</td>
+                <br></br>
+                <br></br>
+                <td>Student Project Presentations:</td>
                 </td>
                 <td></td>
                 <td></td>
