@@ -85,7 +85,7 @@ export default function Home() {
               </tr>
               <tr>
                 <td>09/14/2023 (Thursday)</td>
-                <td>Lecture: <a href="/lectures/csc2541_lecture2-sup_learning1.pdf" target="_blank">Supervised Learning in Healthcare I</a> <i>(Rahul Krishnan)</i></td>
+                <td>Lecture: <a>Supervised Learning in Healthcare I</a> <i>(Rahul Krishnan)</i></td>
                 <td rowSpan="1" style={{verticalAlign: "middle"}}>
                 {makeLink("mandatory", 
                   "https://arxiv.org/abs/1606.00931", 
@@ -130,7 +130,7 @@ export default function Home() {
               </tr>
               <tr>
                 <td>09/21/2023 (Thursday)</td>
-                <td>Lecture: <a href="lectures/csc2541_lecture4-ts_learning1.pdf" target="_blank">Time Series Modeling in Healthcare I</a> <i>(Rahul Krishnan)</i></td>
+                <td>Lecture: <a>Time Series Modeling in Healthcare I</a> <i>(Rahul Krishnan)</i></td>
                 <td rowSpan="1" style={{verticalAlign: "middle"}}>
                 {makeLink("mandatory", 
                   "https://static1.squarespace.com/static/59d5ac1780bd5ef9c396eda6/t/5b7372dc1ae6cf102e27b7e7/1534292701747/13.pdf", 
@@ -167,7 +167,7 @@ export default function Home() {
               </tr>
               <tr>
                 <td>09/28/2023 (Thursday)</td>
-                <td>Guest Lecture: <a href="talks/csc2541_guest_lecture1_Severson.pdf" target="_blank">Discovery of Parkinson’s Disease States Using Machine Learning and Longitudinal Data</a> <i> (Kristen Severson)</i></td>
+                <td>Guest Lecture: <a>Discovery of Parkinson’s Disease States Using Machine Learning and Longitudinal Data</a> <i> (Kristen Severson)</i></td>
                 <td rowSpan="1" style={{verticalAlign: "middle"}}>
                   {makeLink("mandatory", 
                   "https://arxiv.org/abs/2102.11218", 
@@ -216,7 +216,7 @@ export default function Home() {
               </tr>
               <tr>
                 <td>10/05/2023 (Monday)</td>
-                <td>Lecture: <a href="lectures/csc2541_lecture7-clinicalnlp.pdf" target="_blank"> Clinical Natural Language Processing</a> <i>(Rahul Krishnan)</i></td>
+                <td>Lecture: <a> Clinical Natural Language Processing</a> <i>(Rahul Krishnan)</i></td>
                 <td rowSpan="1" style={{verticalAlign: "middle"}}>
                 {makeLink("mandatory", 
                   "https://arxiv.org/pdf/1706.03762.pdf", 
@@ -279,7 +279,7 @@ export default function Home() {
               </tr>
               <tr>
                 <td>10/19/2021 (Thursday)</td>
-                <td>Lecture: <a href="lectures/csc2541_lecture9-ssl.pdf" target="_blank">Self-Supervised Learning</a> <i>(Rahul Krishnan)</i></td>
+                <td>Lecture: <a>Self-Supervised Learning</a> <i>(Rahul Krishnan)</i></td>
                 <td rowSpan="1" style={{verticalAlign: "middle"}}>
                   {makeLink("mandatory", 
                   "https://arxiv.org/pdf/1810.03993.pdf", 
@@ -325,7 +325,7 @@ export default function Home() {
               </tr>
               <tr>
                 <td>10/26/2023 (Thursday)</td>
-                <td>Guest Lecture: <a href="talks/csc2541_guest_lecture5_Irene.pdf" target="_blank">Machine Learning for Equitable Healthcare</a> <i>(Irene Chen)</i></td>
+                <td>Guest Lecture: <a>Machine Learning for Equitable Healthcare</a> <i>(Irene Chen)</i></td>
                 <td rowSpan="1" style={{verticalAlign: "middle"}}>
                 {makeLink("mandatory", 
                   "https://www.science.org/doi/abs/10.1126/science.aax2342", 
@@ -371,7 +371,7 @@ export default function Home() {
               </tr>
               <tr>
                 <td>11/02/2023 (Thursday)</td>
-                <td>Lecture: <a href="lectures/csc2541_lecture10-rcts.pdf" target="_blank">Clinical Trials</a> <i>(Rahul Krishnan)</i></td>
+                <td>Lecture: <a>Clinical Trials</a> <i>(Rahul Krishnan)</i></td>
                 <td rowSpan="1" style={{verticalAlign: "middle"}}>
                 {makeLink("mandatory", 
                   "https://trialsjournal.biomedcentral.com/articles/10.1186/s13063-021-05489-x", 
@@ -425,7 +425,7 @@ export default function Home() {
               </tr>
               <tr>
                 <td>11/16/2023 (Monday)</td>
-                <td>Lecture: <a href="lectures/csc2541_lecture11-causalinf.pdf" target="_blank">Causality and Missingness</a> <i>(Rahul Krishnan)</i></td>
+                <td>Lecture: <a>Causality and Missingness</a> <i>(Rahul Krishnan)</i></td>
                 <td rowSpan="1" style={{verticalAlign: "middle"}}>
                 {makeLink("mandatory", 
                   "https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/", 
