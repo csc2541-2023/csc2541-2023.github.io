@@ -63,7 +63,8 @@ export default function Home() {
               </tr>
               <tr>
                 <td>09/07/2023 (Thursday)</td>
-                <td>Lecture: <a href="/lectures/csc2541_lecture1-intro_to_mlhc.pdf" target="_blank">Introduction and Course Details</a> <i>(Rahul Krishnan)</i></td>
+                {/* <td>Lecture: <a href="/lectures/csc2541_lecture1-intro_to_mlhc.pdf" target="_blank">Introduction and Course Details</a> <i>(Rahul Krishnan)</i></td> */}
+                <td>Lecture: <a>Introduction and Course Details</a> <i>(Rahul Krishnan)</i></td>
                 <td rowSpan="1">
                   {makeLink("mandatory", 
                   "https://www.healthaffairs.org/doi/full/10.1377/hlthaff.2014.0041", 
