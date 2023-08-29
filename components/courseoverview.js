@@ -52,7 +52,7 @@ export default function CourseOverview() {
         <div>
             <b>Office Hours:</b>
             <ul>
-                <li><b>Rahul: </b> Tuesdays, 7:00PM - 8:00PM, <a href="https://q.utoronto.ca/courses/239200/discussion_topics/1357692" target="_blank">on Zoom</a>.</li>
+                <li><b>Rahul: </b> Thursdays, 3:00PM - 4:00PM, <a href="https://q.utoronto.ca/courses/239200/discussion_topics/1357692" target="_blank">in PT286</a>.</li>
                 {/* <li><b>Michael: </b> Thursdays, 9:00AM - 10:00AM, <a href="https://calendly.com/michaelcooper/michael-csc2541-oh" target="_blank">by appointment</a>.</li>
                 <li><b>Farnam: </b> Thursdays, 11:00AM - 1:00PM, <a href="https://calendly.com/frnm-mansouri/farnam-s-csc-2541-office-hours" target="_blank">by appointment</a>.</li> */}
             </ul>
@@ -68,13 +68,13 @@ export default function CourseOverview() {
             {/* Icons for various course features */}
         <Row>
         <Col></Col>
-        <Col className='d-flex justify-content-center'>
+{/*         <Col className='d-flex justify-content-center'>
             {bottomTooltip(<a href="https://piazza.com/class/kt80bprbcjk64q" target="_blank">
             <i className="ai ai-piazza ai-2x"></i>
             </a>, "Piazza")}
-        </Col>
+        </Col> */}
         <Col className='d-flex justify-content-center'>
-            {bottomTooltip(<a href="https://q.utoronto.ca/courses/239200" target="_blank">
+            {bottomTooltip(<a href="https://q.utoronto.ca/courses/314692" target="_blank">
             {quercusLogo(dark)}
         </a>, "Quercus")}
         </Col>

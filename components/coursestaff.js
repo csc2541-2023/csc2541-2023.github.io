@@ -7,7 +7,7 @@ export default function CourseStaff() {
         <>
         <Row>
             <Col><b>Instructor</b></Col>
-            <Col><b>Teaching Assistants</b></Col>
+            <Col><b>Teaching Assistant</b></Col>
         </Row>
         <br></br>
         <Row>
@@ -27,7 +27,7 @@ export default function CourseStaff() {
                 {instructorProfile(
                         "Sujay Nagaraj", 
                         "images/Nagaraj,Sujay.jpg",
-                        //"https://michaeljohncooper.com",
+                         "https://scholar.google.com/citations?user=8YrBnPsAAAAJ&hl=en",
                         "mail.utoronto.ca",
                         "s.nagaraj")}
                     </Col>
