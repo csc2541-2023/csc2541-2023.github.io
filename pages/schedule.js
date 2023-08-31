@@ -163,7 +163,7 @@ export default function Home() {
               </tr> */}
               {/* WEEK 4 */}
               <tr>
-                <td colSpan="3" align="center"><b>Week 4: Time-Series Modelling / Disease Progression</b></td>
+                <td colSpan="3" align="center"><b>Week 4: </b></td>
               </tr>
               <tr>
                 <td>09/28/2023 (Thursday)</td>
@@ -212,7 +212,7 @@ export default function Home() {
               </tr> */}
               {/* WEEK 5 */}
               <tr>
-                <td colSpan="3" align="center"><b>Week 5: Clinical NLP and LLMs</b></td>
+                <td colSpan="3" align="center"><b>Week 5: </b></td>
               </tr>
               <tr>
                 <td>10/05/2023 (Monday)</td>
@@ -246,7 +246,7 @@ export default function Home() {
               </tr> */}
               {/* WEEK 6 */}
               <tr>
-                <td colSpan="3" align="center"><b>Week 6: Medical Imaging and Self-Supervised Learning</b></td>
+                <td colSpan="3" align="center"><b>Week 6: </b></td>
               </tr>
               <tr>
                 <td>10/12/2023 (Thursday)</td>
@@ -275,7 +275,7 @@ export default function Home() {
               </tr> */}
               {/* WEEK 7 */}
               <tr>
-                <td colSpan="3" align="center"><b>Week 7: Clinical Deployment</b></td>
+                <td colSpan="3" align="center"><b>Week 7: </b></td>
               </tr>
               <tr>
                 <td>10/19/2021 (Thursday)</td>
@@ -321,7 +321,7 @@ export default function Home() {
               </tr> */}
               {/* WEEK 8 */}
               <tr>
-                <td colSpan="3" align="center"><b>Week 8: Fairness</b></td>
+                <td colSpan="3" align="center"><b>Week 8: </b></td>
               </tr>
               <tr>
                 <td>10/26/2023 (Thursday)</td>
@@ -367,7 +367,7 @@ export default function Home() {
               </tr> */}
               {/* WEEK 9 */}
               <tr>
-                <td colSpan="3" align="center"><b>Week 9: Causality I</b></td>
+                <td colSpan="3" align="center"><b>Week 9: </b></td>
               </tr>
               <tr>
                 <td>11/02/2023 (Thursday)</td>
@@ -421,7 +421,7 @@ export default function Home() {
               </tr> */}
               {/* WEEK 11 */}
               <tr>
-                <td colSpan="3" align="center"><b>Week 11: Causality II</b></td>
+                <td colSpan="3" align="center"><b>Week 11: </b></td>
               </tr>
               <tr>
                 <td>11/16/2023 (Monday)</td>
@@ -472,7 +472,7 @@ export default function Home() {
               </tr>
               {/* WEEK 12 */}
               <tr>
-                <td colSpan="3" align="center"><b>Week 12: Student Presentations</b></td>
+                <td colSpan="3" align="center"><b>Week 12: </b></td>
               </tr>
               <tr>
                 <td>11/23/2023 (Monday)</td>
@@ -501,7 +501,7 @@ export default function Home() {
               </tr> */}
               {/* WEEK 13 */}
               <tr>
-                <td colSpan="3" align="center"><b>Week 13: Student Presentations</b></td>
+                <td colSpan="3" align="center"><b>Week 13: </b></td>
               </tr>
               <tr>
                 <td>11/30/2023 (Monday)</td>
@@ -541,7 +541,7 @@ export default function Home() {
               </tr> */}
             {/* WEEK 14 */}
             <tr>
-                <td colSpan="3" align="center"><b>Week 14: Student Presentations</b></td>
+                <td colSpan="3" align="center"><b>Week 14:</b></td>
               </tr>
               <tr>
                 <td>12/07/2023 (Thursday)</td>
