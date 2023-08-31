@@ -470,7 +470,7 @@ export default function Home() {
                 </td>
               </tr> */}
               {/* WEEK 12 */}
-              <tr>
+{/*               <tr>
                 <td colSpan="3" align="center"><b>Week 12: Student Presentations</b></td>
               </tr>
               <tr>
@@ -488,7 +488,7 @@ export default function Home() {
                 <td>Student Project Presentations:</td>
                 </td>
                 <td></td>
-              </tr>
+              </tr> */}
               {/* <tr>
                 <td>11/24/2021 (Wednesday)</td>
                 <td>Lecture: <a href="lectures/csc2541_lecture13-casestudies.pdf" target="_blank">Case Studies in Machine Learning for Healthcare</a> <i>(Rahul Krishnan)</i></td>
@@ -499,12 +499,12 @@ export default function Home() {
                 <td>Guest Lecture: <a href="talks/csc2541_guest_lecture6_Nikhil.pdf" target="_blank">Interpreting Model Predictions</a> <i>(Nikhil Verma)</i></td>
                 <td></td>
               </tr> */}
-              {/* WEEK 13 */}
+              {/* WEEK 12 */}
               <tr>
-                <td colSpan="3" align="center"><b>Week 13: Student Presentations</b></td>
+                <td colSpan="3" align="center"><b>Week 12: Student Presentations</b></td>
               </tr>
               <tr>
-                <td>11/30/2023 (Monday)</td>
+                <td>11/23/2023 (Monday)</td>
                 <td>
                 <td>Student Project Presentations:</td>
                 <br></br>
@@ -539,12 +539,12 @@ export default function Home() {
                 </td>
                 <td></td>
               </tr> */}
-            {/* WEEK 14 */}
+            {/* WEEK 13 */}
             <tr>
-                <td colSpan="3" align="center"><b>Week 14: Student Presentations</b></td>
+                <td colSpan="3" align="center"><b>Week 13: Student Presentations</b></td>
               </tr>
               <tr>
-                <td>12/07/2023 (Thursday)</td>
+                <td>11/30/2023 (Thursday)</td>
                 <td>
                 <td>Student Project Presentations:</td>
                 <br></br>
