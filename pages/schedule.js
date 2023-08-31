@@ -125,7 +125,7 @@ export default function Home() {
                 <td>Project Planning Session I</td>
               </tr> */}
               {/* WEEK 3 */}
-              <tr>
+             {/*  <tr>
                 <td colSpan="3" align="center"><b>Week 3: In-person Project Planning</b></td>
               </tr>
               <tr>
@@ -152,7 +152,7 @@ export default function Home() {
                   "http://www.marzyehghassemi.com//wp-content/uploads/2016/10/JAMIA_2016_Ghassemi_Wu_Understanding_vasopressor_interventions.pdf",
                   "Understanding vasopressor intervention and... (Wu, Ghassemi et al.)")}
                 </td>
-              </tr>
+              </tr> */}
               {/* <tr>
                 <td>09/28/2023 (Thursday)</td>
                 <td>Lecture: <a href="lectures/csc2541_lecture5-ts_learning2.pdf" target="_blank">Time Series Modeling in Healthcare II</a> <i>(Rahul Krishnan)</i></td>
@@ -162,7 +162,7 @@ export default function Home() {
                 <td>Project Planning Session II</td>
               </tr> */}
               {/* WEEK 4 */}
-              <tr>
+              {/* <tr>
                 <td colSpan="3" align="center"><b>Week 4: Time-Series Modelling / Disease Progression</b></td>
               </tr>
               <tr>
@@ -193,7 +193,7 @@ export default function Home() {
                   "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4191837/",
                   "Modeling Disease Progression via Fused Sparse... (Zhou et al.)")}
                 </td>
-              </tr>
+              </tr> */}
               {/* <tr>
                 <td>09/29/2021 (Wednesday)</td>
                 <td>Lecture: <a href="lectures/csc2541_lecture6-disease_prog.pdf" target="_blank">Disease Progression Modeling</a> <i>(Rahul Krishnan)</i></td>
@@ -211,7 +211,7 @@ export default function Home() {
                 </td>
               </tr> */}
               {/* WEEK 5 */}
-              <tr>
+              {/* <tr>
                 <td colSpan="3" align="center"><b>Week 5: Clinical NLP and LLMs</b></td>
               </tr>
               <tr>
@@ -230,7 +230,7 @@ export default function Home() {
                   "https://arxiv.org/abs/1901.08746", 
                   "BioBERT: a pre-trained biomedical language... (Lee et al.)")}
                 </td>
-              </tr>
+              </tr> */}
               {/* <tr>
                 <td>10/06/2021 (Wednesday)</td>
                 <td>
@@ -245,7 +245,7 @@ export default function Home() {
                 <td>Guest Lecture: <a href="talks/csc2541_guest_lecture2_Monica.pdf" target="_blank">Clinical Natural Language Processing</a> <i>(Monica Agrawal)</i></td>
               </tr> */}
               {/* WEEK 6 */}
-              <tr>
+              {/* <tr>
                 <td colSpan="3" align="center"><b>Week 6: Medical Imaging and Self-Supervised Learning</b></td>
               </tr>
               <tr>
@@ -264,7 +264,7 @@ export default function Home() {
                   "https://arxiv.org/pdf/1505.04597.pdf", 
                   "U-Net: Convolutional Networks for Biomedical... (Ronneberger et al.)")}
                 </td>
-              </tr>
+              </tr> */}
              {/*  <tr>
                 <td>10/13/2021 (Wednesday)</td>
                 <td>Lecture: <a href="lectures/csc2541_lecture8-imaging.pdf" target="_blank"> Medical Imaging</a> <i>(Rahul Krishnan)</i></td>
@@ -274,7 +274,7 @@ export default function Home() {
                 <td>Guest Lecture: <a href="talks/csc2541_guest_lecture3_Liao.pdf" target="_blank">Multimodal Representation Learning for Medical Image Analysis</a> <i>(Ruizhi Liao)</i></td>
               </tr> */}
               {/* WEEK 7 */}
-              <tr>
+              {/* <tr>
                 <td colSpan="3" align="center"><b>Week 7: Clinical Deployment</b></td>
               </tr>
               <tr>
@@ -305,7 +305,7 @@ export default function Home() {
                   "https://arxiv.org/pdf/1703.04730.pdf", 
                   "Understanding Black-box Predictions via... (Koh and Liang)")}
                 </td>
-              </tr>
+              </tr> */}
               {/* <tr>
                 <td>10/20/2021 (Wednesday)</td>
                 <td>Lecture: <a href="talks/csc2541_guest_lecture4_Fralick.pdf" target="_blank">Deployment of Clinical ML Systems</a> <i>(Michael Fralick)</i></td>
@@ -320,7 +320,7 @@ export default function Home() {
                 </td>
               </tr> */}
               {/* WEEK 8 */}
-              <tr>
+              {/* <tr>
                 <td colSpan="3" align="center"><b>Week 8: Fairness</b></td>
               </tr>
               <tr>
@@ -343,7 +343,7 @@ export default function Home() {
                   "https://jamanetwork.com/journals/jamadermatology/article-abstract/2688587", 
                   "Machine Learning and Health Care Disparities... (Adamson and Smith)")}
                 </td>
-              </tr>
+              </tr> */}
               {/* <tr>
                 <td>10/27/2021 (Wednesday)</td>
                 <td>
@@ -366,7 +366,7 @@ export default function Home() {
                 </td>
               </tr> */}
               {/* WEEK 9 */}
-              <tr>
+              {/* <tr>
                 <td colSpan="3" align="center"><b>Week 9: Causality I</b></td>
               </tr>
               <tr>
@@ -393,7 +393,7 @@ export default function Home() {
                   "https://www.nature.com/articles/s41591-018-0310-5", 
                   "Guidelines for reinforcement learning in healthcare (Gottesman et al.)")}
                 </td>
-              </tr>
+              </tr> */}
              {/*  <tr>
                 <td>11/03/2021 (Wednesday)</td>
                 <td>
@@ -413,14 +413,14 @@ export default function Home() {
                 </td>
               </tr> */}
               {/* WEEK 10 */}
-              <tr>
+              {/* <tr>
                 <td colSpan="3" align="center"><b>Week 10: Reading Week (No Classes)</b></td>
               </tr>
               <tr>
                 <td colSpan="3" align="center"></td>
-              </tr>
+              </tr> */}
               {/* WEEK 11 */}
-              <tr>
+              {/* <tr>
                 <td colSpan="3" align="center"><b>Week 11: Causality II</b></td>
               </tr>
               <tr>
@@ -451,7 +451,7 @@ export default function Home() {
                   "https://academic.oup.com/ectj/article/21/1/C1/5056401", 
                   "Double/debiased machine learning for... (Chernozhukov et al.)")}
                 </td>
-              </tr>
+              </tr> */}
               {/* <tr>
                 <td>11/17/2021 (Wednesday)</td>
                 <td>
@@ -487,7 +487,7 @@ export default function Home() {
                 <br></br>
                 <td>Student Project Presentations:</td>
                 <td></td>
-                {/* <td rowSpan="3" style={{verticalAlign: "middle"}}></td> */}
+                <td rowSpan="3" style={{verticalAlign: "middle"}}></td>
               </tr>
               {/* <tr>
                 <td>11/24/2021 (Wednesday)</td>
