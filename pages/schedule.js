@@ -85,7 +85,7 @@ export default function Home() {
               </tr>
               <tr>
                 <td>09/14/2023 (Thursday)</td>
-                <td>Lecture: <a>Supervised Learning in Healthcare I</a> <i>(Rahul Krishnan)</i></td>
+                {/* <td>Lecture: <a>Supervised Learning in Healthcare I</a> <i>(Rahul Krishnan)</i></td> */}
                 <td rowSpan="1" style={{verticalAlign: "middle"}}>
                 {makeLink("mandatory", 
                   "https://arxiv.org/abs/1606.00931", 
@@ -130,7 +130,7 @@ export default function Home() {
               </tr>
               <tr>
                 <td>09/21/2023 (Thursday)</td>
-                <td>Lecture: <a>Time Series Modeling in Healthcare I</a> <i>(Rahul Krishnan)</i></td>
+                {/* <td>Lecture: <a>Time Series Modeling in Healthcare I</a> <i>(Rahul Krishnan)</i></td> */}
                 <td rowSpan="1" style={{verticalAlign: "middle"}}>
                 {makeLink("mandatory", 
                   "https://static1.squarespace.com/static/59d5ac1780bd5ef9c396eda6/t/5b7372dc1ae6cf102e27b7e7/1534292701747/13.pdf", 
@@ -163,11 +163,11 @@ export default function Home() {
               </tr> */}
               {/* WEEK 4 */}
               <tr>
-                <td colSpan="3" align="center"><b>Week 4: </b></td>
+                <td colSpan="3" align="center"><b>Week 4: Time-Series Modelling / Disease Progression</b></td>
               </tr>
               <tr>
                 <td>09/28/2023 (Thursday)</td>
-                <td>Guest Lecture: <a>Discovery of Parkinson’s Disease States Using Machine Learning and Longitudinal Data</a> <i> (Kristen Severson)</i></td>
+                {/* <td>Guest Lecture: <a>Discovery of Parkinson’s Disease States Using Machine Learning and Longitudinal Data</a> <i> (Kristen Severson)</i></td> */}
                 <td rowSpan="1" style={{verticalAlign: "middle"}}>
                   {makeLink("mandatory", 
                   "https://arxiv.org/abs/2102.11218", 
@@ -212,11 +212,11 @@ export default function Home() {
               </tr> */}
               {/* WEEK 5 */}
               <tr>
-                <td colSpan="3" align="center"><b>Week 5: </b></td>
+                <td colSpan="3" align="center"><b>Week 5: Clinical NLP and LLMs</b></td>
               </tr>
               <tr>
                 <td>10/05/2023 (Monday)</td>
-                <td>Lecture: <a> Clinical Natural Language Processing</a> <i>(Rahul Krishnan)</i></td>
+                {/* <td>Lecture: <a> Clinical Natural Language Processing</a> <i>(Rahul Krishnan)</i></td> */}
                 <td rowSpan="1" style={{verticalAlign: "middle"}}>
                 {makeLink("mandatory", 
                   "https://arxiv.org/pdf/1706.03762.pdf", 
@@ -246,11 +246,10 @@ export default function Home() {
               </tr> */}
               {/* WEEK 6 */}
               <tr>
-                <td colSpan="3" align="center"><b>Week 6: </b></td>
+                <td colSpan="3" align="center"><b>Week 6: Medical Imaging and Self-Supervised Learning</b></td>
               </tr>
               <tr>
                 <td>10/12/2023 (Thursday)</td>
-                <td>Thanksgiving: No Class</td>
                 <td rowSpan="1" style={{verticalAlign: "middle"}}>
                 {makeLink("mandatory", 
                   "https://arxiv.org/abs/1912.08142", 
@@ -275,11 +274,11 @@ export default function Home() {
               </tr> */}
               {/* WEEK 7 */}
               <tr>
-                <td colSpan="3" align="center"><b>Week 7: </b></td>
+                <td colSpan="3" align="center"><b>Week 7: Clinical Deployment</b></td>
               </tr>
               <tr>
                 <td>10/19/2021 (Thursday)</td>
-                <td>Lecture: <a>Self-Supervised Learning</a> <i>(Rahul Krishnan)</i></td>
+                {/* <td>Lecture: <a>Self-Supervised Learning</a> <i>(Rahul Krishnan)</i></td> */}
                 <td rowSpan="1" style={{verticalAlign: "middle"}}>
                   {makeLink("mandatory", 
                   "https://arxiv.org/pdf/1810.03993.pdf", 
@@ -321,11 +320,11 @@ export default function Home() {
               </tr> */}
               {/* WEEK 8 */}
               <tr>
-                <td colSpan="3" align="center"><b>Week 8: </b></td>
+                <td colSpan="3" align="center"><b>Week 8: Fairness</b></td>
               </tr>
               <tr>
                 <td>10/26/2023 (Thursday)</td>
-                <td>Guest Lecture: <a>Machine Learning for Equitable Healthcare</a> <i>(Irene Chen)</i></td>
+                {/* <td>Guest Lecture: <a>Machine Learning for Equitable Healthcare</a> <i>(Irene Chen)</i></td> */}
                 <td rowSpan="1" style={{verticalAlign: "middle"}}>
                 {makeLink("mandatory", 
                   "https://www.science.org/doi/abs/10.1126/science.aax2342", 
@@ -367,11 +366,11 @@ export default function Home() {
               </tr> */}
               {/* WEEK 9 */}
               <tr>
-                <td colSpan="3" align="center"><b>Week 9: </b></td>
+                <td colSpan="3" align="center"><b>Week 9: Causality I</b></td>
               </tr>
               <tr>
                 <td>11/02/2023 (Thursday)</td>
-                <td>Lecture: <a>Clinical Trials</a> <i>(Rahul Krishnan)</i></td>
+                {/* <td>Lecture: <a>Clinical Trials</a> <i>(Rahul Krishnan)</i></td> */}
                 <td rowSpan="1" style={{verticalAlign: "middle"}}>
                 {makeLink("mandatory", 
                   "https://trialsjournal.biomedcentral.com/articles/10.1186/s13063-021-05489-x", 
@@ -421,11 +420,11 @@ export default function Home() {
               </tr> */}
               {/* WEEK 11 */}
               <tr>
-                <td colSpan="3" align="center"><b>Week 11: </b></td>
+                <td colSpan="3" align="center"><b>Week 11: Causality II</b></td>
               </tr>
               <tr>
                 <td>11/16/2023 (Monday)</td>
-                <td>Lecture: <a>Causality and Missingness</a> <i>(Rahul Krishnan)</i></td>
+                {/* <td>Lecture: <a>Causality and Missingness</a> <i>(Rahul Krishnan)</i></td> */}
                 <td rowSpan="1" style={{verticalAlign: "middle"}}>
                 {makeLink("mandatory", 
                   "https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/", 
@@ -452,7 +451,7 @@ export default function Home() {
                   "Double/debiased machine learning for... (Chernozhukov et al.)")}
                 </td>
               </tr>
-              <tr>
+              {/* <tr>
                 <td>11/17/2021 (Wednesday)</td>
                 <td>
                   Student Paper Presentation:  <a href="https://utoronto-my.sharepoint.com/:p:/g/personal/michael_cooper_mail_utoronto_ca/Eb0WvyywGvpCnqH_hHC97yEB_7jOswD_npvJXb1kyhI5pA?e=3v1MHZ" target="_blank">Optimizing Medical Treatment for Sepsis in Intensive Care</a> <i>(Weiqing Wang, Cong Wei)</i>
@@ -469,10 +468,10 @@ export default function Home() {
                   <br></br>
                   Student Paper Presentation: <a href="paper_presentations/CSC2541_VahidBalazadeh_TomGinsberg_PaperPresentation.pdf" target="_blank">Estimating Individual Treatment Effect: Generalization Bounds and Algorithms</a> <i>(Vahid Balazadeh, Tom Ginsberg)</i>
                 </td>
-              </tr>
+              </tr> */}
               {/* WEEK 12 */}
               <tr>
-                <td colSpan="3" align="center"><b>Week 12: </b></td>
+                <td colSpan="3" align="center"><b>Week 12: Student Presentations</b></td>
               </tr>
               <tr>
                 <td>11/23/2023 (Monday)</td>
@@ -501,7 +500,7 @@ export default function Home() {
               </tr> */}
               {/* WEEK 13 */}
               <tr>
-                <td colSpan="3" align="center"><b>Week 13: </b></td>
+                <td colSpan="3" align="center"><b>Week 13: Student Presentations</b></td>
               </tr>
               <tr>
                 <td>11/30/2023 (Monday)</td>
@@ -541,7 +540,7 @@ export default function Home() {
               </tr> */}
             {/* WEEK 14 */}
             <tr>
-                <td colSpan="3" align="center"><b>Week 14:</b></td>
+                <td colSpan="3" align="center"><b>Week 14: Student Presentations</b></td>
               </tr>
               <tr>
                 <td>12/07/2023 (Thursday)</td>
