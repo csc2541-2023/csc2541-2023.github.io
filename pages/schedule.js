@@ -475,6 +475,7 @@ export default function Home() {
               </tr>
               <tr>
                 <td>11/23/2023 (Monday)</td>
+                <td>
                 <td>Student Project Presentations:</td>
                 <br></br>
                 <br></br>
@@ -485,8 +486,8 @@ export default function Home() {
                 <br></br>
                 <br></br>
                 <td>Student Project Presentations:</td>
+                </td>
                 <td></td>
-                {/* <td rowSpan="3" style={{verticalAlign: "middle"}}></td> */}
               </tr>
               {/* <tr>
                 <td>11/24/2021 (Wednesday)</td>
