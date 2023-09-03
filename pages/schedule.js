@@ -77,7 +77,7 @@ export default function Home() {
                   "https://arxiv.org/abs/1606.00931", 
                   "DeepSurv: Personalized Treatment... (Katzman et al.)")}
                   <br></br>
-                  {makeLink("Mandatory", 
+                  {makeLink("mandatory", 
                   "https://ojs.aaai.org/index.php/AAAI/article/view/11842", 
                   "DeepHit (Li et al.)")}
                   <br></br>
