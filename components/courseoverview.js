@@ -59,7 +59,7 @@ export default function CourseOverview() {
         </div>
 
         <div>
-            <b> Booking Presentations Practice:</b>
+            {/* <b> Booking Presentations Practice:</b> */}
             <ul>
                 {/* <li><b>Michael: </b> Tuesdays, 9:00AM - 11:00AM, <a href="https://calendly.com/michaelcooper-uoft/michael-s-csc-2541-presentation-practice-hours?month=2021-10" target="_blank">by appointment</a>.</li>
                 <li><b>Farnam: </b> Tuesdays, 11:00AM - 1:00PM, <a href="https://calendly.com/frnm-mansouri/farnam-s-csc2541-presentation-practice-hours?month=2021-10" target="_blank">by appointment</a>.</li> */}

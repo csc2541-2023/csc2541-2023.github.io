@@ -11,11 +11,11 @@ export default function Home() {
       </Head>
         <Page>
           <h2>Paper Summary Assignment</h2>
-          <h5>Due: October 29, at 11:59PM ET.</h5>
+          <h5>Due: October 26, at 11:59PM ET.</h5>
 
           <p>In the paper summary assignment, you will select and summarize four papers of your choosing from the required reading list. In summarizing each paper, contextualize the paper within the research landscape, discuss the motivation and problem definition, the key approach of the paper - including the features that make it especially unique from other contemporary literature, and results/implications of the work for the medical - and medical machine learning - community.</p>
 
-          <p>Each summary should be roughly half a page using the provided LaTeX template. Some papers leave more to unpack and discuss than others, you’re welcome to have some summaries which are longer, and some which are shorter - however, your entire submission is to be at least two but not greater than three pages using the <a href="https://www.overleaf.com/latex/templates/neurips-2021/bfjnthbqvhgs" target="_blank">LaTeX template</a> (you do not need to include the title or authorship segments - since your name is included with your submission - if you would prefer to omit them to save on space).</p>
+          <p>Each summary should be roughly half a page using the provided LaTeX template. Some papers leave more to unpack and discuss than others, you’re welcome to have some summaries which are longer, and some which are shorter - however, your entire submission is to be at least two but not greater than three pages using the <a href="https://neurips.cc/Conferences/2023/PaperInformation/StyleFiles" target="_blank">LaTeX template</a> (you do not need to include the title or authorship segments - since your name is included with your submission - if you would prefer to omit them to save on space).</p>
 
           <p>If you’d like inspiration of how to summarize papers effectively, consider reading the following blog posts:</p>
           <ul>
