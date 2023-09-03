@@ -101,7 +101,7 @@ export default function Home() {
                   "CoxNNET - Survival analysis from omics... (Ching et al.)")}
                   <br></br>
                   {makeLink("mandatory", 
-                  "https://www.nature.com/articles/s41746-018-0029", 
+                  "https://www.nature.com/articles/s41746-018-0029-1.pdf", 
                   "DeepLearning with EHR (Rajkomar et al.)")}
                 </td>
               </tr>
