@@ -67,16 +67,20 @@ export default function Home() {
                 <td>Lecture: <a>Introduction and Course Details</a> <i>(Rahul Krishnan)</i></td>
                 <td rowSpan="1">
                   {makeLink("mandatory", 
-                  "https://www.healthaffairs.org/doi/full/10.1377/hlthaff.2014.0041", 
-                  "Big Data In Health Care: Using Analytics... (Bates et al.)")}
+                  "https://www.nature.com/articles/s41586-023-05881-4?utm_medium=Social&utm_campaign=nature&utm_source=Twitter#Echobox=1681386702", 
+                  "Foundation Models for Generalist AI.. (Moor et al.)")}
                   <br></br>
                   {makeLink("mandatory", 
                   "https://arxiv.org/pdf/1806.00388.pdf", 
                   "A Review of Challenges and Opportunities... (Ghassemi et al.)")}
                   <br></br>
-                  {makeLink("optional", 
-                  "https://discovery.ucl.ac.uk/id/eprint/1598/1/A22.pdf", 
-                  "Electronic Health Records (Kalra and Ingram)")}
+                  {makeLink("mandatory", 
+                  "https://arxiv.org/abs/1606.00931", 
+                  "DeepSurv: Personalized Treatment... (Katzman et al.)")}
+                  <br></br>
+                  {makeLink("Mandatory", 
+                  "https://ojs.aaai.org/index.php/AAAI/article/view/11842", 
+                  "DeepHit (Li et al.)")}
                 </td>
               </tr>
               {/* WEEK 2 */}
@@ -88,33 +92,17 @@ export default function Home() {
                 {/* <td>Lecture: <a>Supervised Learning in Healthcare I</a> <i>(Rahul Krishnan)</i></td> */}
                 {/* <td rowSpan="1" style={{verticalAlign: "middle"}}> */}
                 <td rowSpan="1">
-                {makeLink("mandatory", 
-                  "https://arxiv.org/abs/1606.00931", 
-                  "DeepSurv: Personalized Treatment... (Katzman et al.)")}
-                  <br></br>
                   {makeLink("mandatory", 
                   "https://www.liebertpub.com/doi/pdfplus/10.1089/big.2015.0020", 
                   "Population-Level Prediction of Type 2... (Razavian et al.)")}
                   <br></br>
                   {makeLink("mandatory", 
-                  "https://www.ahajournals.org/doi/full/10.1161/01.cir.97.18.1837", 
-                  "Prediction of Coronary Heart Disease... (Wilson et al.)")}
+                  "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006076", 
+                  "CoxNNET - Survival analysis from omics... (Ching et al.)")}
                   <br></br>
-                  {makeLink("optional",
-                  "https://www.nature.com/articles/nature21056",
-                  "Dermatologist-level classification of skin cancer... (Esteva et al.)")}
-                  <br></br>
-                  {makeLink("optional", 
-                  "https://www.science.org/doi/full/10.1126/scitranslmed.aab3719", 
-                  "A targeted real-time early warning... (Henry et al.)")}
-                  <br></br>
-                  {makeLink("optional",
-                  "https://data.princeton.edu/wws509/notes/c7.pdf",
-                  "Survival Models (Rodriguez)")}
-                  <br></br>
-                  {makeLink("optional",
-                  "https://www.nature.com/bjc/articles?type=tutorial-paper",
-                  "Survival Analysis Tutorial (Clark, Bradburn, et al.)")}
+                  {makeLink("mandatory", 
+                  "https://www.nature.com/articles/s41746-018-0029", 
+                  "DeepLearning with EHR (Rajkomar et al.)")}
                 </td>
               </tr>
               {/* <tr>
@@ -196,16 +184,19 @@ export default function Home() {
                 </td> */}
               </tr>
               <tr>
-                <td id="deadlineTableRow">09/28/2023 (Friday)</td>
+                <td id="deadlineTableRow">09/28/2023 (Thursday)</td>
                 <td id="deadlineTableRow">
-                  {/* Student Paper Presentation: A Targeted Real-Time Early Warning Score (TREWScore) for Septic Shock <i>(Shihao Ma, Shreyansh Banthia)</i>
+                {/* <td>
+                  Student Project Presentation: <a href="project_presentations/CSC2541_VahidBalazadeh_TomGinsberg_KorbinianKoch_VasudevSharma_ProjectPresentation.pdf" target="_blank">DisCeRn: Disease-Contrastive Representations from Multi-Modal Medical Data</a> (Vahid Balazadeh, Tom Ginsberg, Korbinian Koch, Vasudev Sharma)
                   <br></br>
                   <br></br>
-                  Student Paper Presentation: <a href="paper_presentations/CSC2541_KorbinianKoch_PaperPresentation.pdf" target="_blank">Population-Level Prediction of Type 2 Diabetes From Claims Data and Analysis of Risk Factors</a> <i>(Korbinian Koch)</i>
+                  Student Project Presentation: <a href="project_presentations/CSC2541_RuijingZeng_TongziWu_WeimingRen_TianshuZhu_ProjectPresentation.pdf" target="_blank">Towards Transformer-Based Automated ICD Coding: Challenges, Pitfalls and Solutions</a> (Ruijing Zeng, Tongzi Wu, Weiming Ren, Tianshu Zhu)
+                </td> */}
+                <td></td>
                   <br></br>
-                  <br></br> */}
-                  <b>Project Proposal Assignment Due</b>
+                  <b>Project Proposal Due</b>
                 </td>
+                <td id="deadlineTableRow"></td>
               </tr>
               {/* WEEK 5 */}
               <tr>
@@ -350,7 +341,7 @@ export default function Home() {
                 </td>
               </tr> */}
               <tr>
-                <td id="deadlineTableRow">10/29/2021 (Friday)</td>
+                <td id="deadlineTableRow">10/29/2023 (Friday)</td>
                 <td id="deadlineTableRow">
                   {/* Student Paper Presentation: <a href="paper_presentations/CSC2541_ShujunYan_DianaKan_PaperPresentation.pdf" target="_blank">Fully Automated Echocardiogram Interpretation in Clinical Practice</a> <i>(Shujun Yan, Dianna Kan)</i>
                   <br></br>
@@ -358,6 +349,7 @@ export default function Home() {
                   Student Paper Presentation: <a href="paper_presentations/CSC2541_VasudevSharma_FatemeHaghpanah_PaperPresentation.pdf" target="_blank">U-Net: Convolutional Networks for Biomedical Image Segmentation</a> <i>(Fateme Haghpanah, Vasudev Sharma)</i>
                   <br></br>
                   <br></br> */}
+                  <br></br>
                   <b>Paper Summary Assignment Due</b>
                 </td>
               </tr>
@@ -578,7 +570,7 @@ export default function Home() {
                 <td colSpan="3" align="center"><b>Week 14: Student Presentations</b></td>
               </tr>
               <tr>
-                <td>11/30/2023 (Thursday)</td>
+                <td>12/07/2023 (Thursday)</td>
                 <td>
                 <td>Student Project Presentations:</td>
                 <br></br>
@@ -595,7 +587,7 @@ export default function Home() {
                 <td></td>
               </tr>
               <tr>
-                <td id="deadlineTableRow">12/07/2021 (Wednesday)</td>
+                <td id="deadlineTableRow">12/07/2023 (Thursday)</td>
                 <td id="deadlineTableRow">
                 {/* <td>
                   Student Project Presentation: <a href="project_presentations/CSC2541_VahidBalazadeh_TomGinsberg_KorbinianKoch_VasudevSharma_ProjectPresentation.pdf" target="_blank">DisCeRn: Disease-Contrastive Representations from Multi-Modal Medical Data</a> (Vahid Balazadeh, Tom Ginsberg, Korbinian Koch, Vasudev Sharma)
