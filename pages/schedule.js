@@ -64,7 +64,7 @@ export default function Home() {
               <tr>
                 <td>09/07/2023 (Thursday)</td>
                 <td>Lecture: <a href="/lectures/lecture1-intro_to_ml.pdf" target="_blank">Introduction and Course Details</a> <i>(Rahul Krishnan)</i></td>
-                <td rowSpan="2">
+                <td rowSpan="1">
                   {makeLink("mandatory", 
                   "https://www.nature.com/articles/s41586-023-05881-4?utm_medium=Social&utm_campaign=nature&utm_source=Twitter#Echobox=1681386702", 
                   "Foundation Models for Generalist AI.. (Moor et al.)")}
