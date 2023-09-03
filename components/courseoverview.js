@@ -53,6 +53,7 @@ export default function CourseOverview() {
             <b>Office Hours:</b>
             <ul>
                 <li><b>Rahul: </b> Wednesdays, 11:00AM - 12:00PM, <a href="https://goo.gl/maps/y2SUJaAkdaKYGKSd9" target="_blank">in PT286</a>.</li>
+                <li><b>Sujay: </b> Thursdays, 1:00PM - 2:00PM, <a href="https://utoronto.zoom.us/j/2670680182" target="_blank">on Zoom</a>.</li>
                 {/* <li><b>Michael: </b> Thursdays, 9:00AM - 10:00AM, <a href="https://calendly.com/michaelcooper/michael-csc2541-oh" target="_blank">by appointment</a>.</li>
                 <li><b>Farnam: </b> Thursdays, 11:00AM - 1:00PM, <a href="https://calendly.com/frnm-mansouri/farnam-s-csc-2541-office-hours" target="_blank">by appointment</a>.</li> */}
             </ul>
