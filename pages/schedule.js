@@ -63,9 +63,8 @@ export default function Home() {
               </tr>
               <tr>
                 <td>09/07/2023 (Thursday)</td>
-                {/* <td>Lecture: <a href="/lectures/csc2541_lecture1-intro_to_mlhc.pdf" target="_blank">Introduction and Course Details</a> <i>(Rahul Krishnan)</i></td> */}
-                <td>Lecture: <a>Introduction and Course Details</a> <i>(Rahul Krishnan)</i></td>
-                <td rowSpan="1">
+                <td>Lecture: <a href="/lectures/lecture1-intro_to_ml.pdf" target="_blank">Introduction and Course Details</a> <i>(Rahul Krishnan)</i></td>
+                <td rowSpan="2">
                   {makeLink("mandatory", 
                   "https://www.nature.com/articles/s41586-023-05881-4?utm_medium=Social&utm_campaign=nature&utm_source=Twitter#Echobox=1681386702", 
                   "Foundation Models for Generalist AI.. (Moor et al.)")}
@@ -81,6 +80,7 @@ export default function Home() {
                   {makeLink("Mandatory", 
                   "https://ojs.aaai.org/index.php/AAAI/article/view/11842", 
                   "DeepHit (Li et al.)")}
+                  <br></br>
                 </td>
               </tr>
               {/* WEEK 2 */}
