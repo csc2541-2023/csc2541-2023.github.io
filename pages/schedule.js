@@ -195,22 +195,18 @@ export default function Home() {
                   "Modeling Disease Progression via Fused Sparse... (Zhou et al.)")}
                 </td> */}
               </tr>
-              {/* <tr>
-                <td>09/29/2021 (Wednesday)</td>
-                <td>Lecture: <a href="lectures/csc2541_lecture6-disease_prog.pdf" target="_blank">Disease Progression Modeling</a> <i>(Rahul Krishnan)</i></td>
-              </tr>
               <tr>
-                <td id="deadlineTableRow">10/01/2021 (Friday)</td>
+                <td id="deadlineTableRow">09/28/2023 (Friday)</td>
                 <td id="deadlineTableRow">
-                  Student Paper Presentation: A Targeted Real-Time Early Warning Score (TREWScore) for Septic Shock <i>(Shihao Ma, Shreyansh Banthia)</i>
+                  {/* Student Paper Presentation: A Targeted Real-Time Early Warning Score (TREWScore) for Septic Shock <i>(Shihao Ma, Shreyansh Banthia)</i>
                   <br></br>
                   <br></br>
                   Student Paper Presentation: <a href="paper_presentations/CSC2541_KorbinianKoch_PaperPresentation.pdf" target="_blank">Population-Level Prediction of Type 2 Diabetes From Claims Data and Analysis of Risk Factors</a> <i>(Korbinian Koch)</i>
                   <br></br>
-                  <br></br>
+                  <br></br> */}
                   <b>Project Proposal Assignment Due</b>
                 </td>
-              </tr> */}
+              </tr>
               {/* WEEK 5 */}
               <tr>
                 <td colSpan="3" align="center"><b>Week 5: Clinical NLP and LLMs</b></td>
@@ -352,19 +348,19 @@ export default function Home() {
                   <br></br>
                   Student Paper Presentation: <a href="paper_presentations/CSC2541_ZixuanPan_ZitongLi_PaperPresentation.pdf" target="_blank">BioBERT: A Pre-Trained Biomedical Language Representation Model for Biomedical Text Mining</a> <i>(Zixuan Pan, Zitong Li)</i>
                 </td>
-              </tr>
+              </tr> */}
               <tr>
                 <td id="deadlineTableRow">10/29/2021 (Friday)</td>
                 <td id="deadlineTableRow">
-                  Student Paper Presentation: <a href="paper_presentations/CSC2541_ShujunYan_DianaKan_PaperPresentation.pdf" target="_blank">Fully Automated Echocardiogram Interpretation in Clinical Practice</a> <i>(Shujun Yan, Dianna Kan)</i>
+                  {/* Student Paper Presentation: <a href="paper_presentations/CSC2541_ShujunYan_DianaKan_PaperPresentation.pdf" target="_blank">Fully Automated Echocardiogram Interpretation in Clinical Practice</a> <i>(Shujun Yan, Dianna Kan)</i>
                   <br></br>
                   <br></br>
                   Student Paper Presentation: <a href="paper_presentations/CSC2541_VasudevSharma_FatemeHaghpanah_PaperPresentation.pdf" target="_blank">U-Net: Convolutional Networks for Biomedical Image Segmentation</a> <i>(Fateme Haghpanah, Vasudev Sharma)</i>
                   <br></br>
-                  <br></br>
+                  <br></br> */}
                   <b>Paper Summary Assignment Due</b>
                 </td>
-              </tr> */}
+              </tr>
               {/* WEEK 9 */}
               <tr>
                 <td colSpan="3" align="center"><b>Week 9: Causality I</b></td>
@@ -562,7 +558,7 @@ export default function Home() {
                 <td></td>
               </tr>
               {/* <tr>
-                <td id="deadlineTableRow">12/08/2021 (Wednesday)</td>
+                <td id="deadlineTableRow">12/07/2021 (Wednesday)</td>
                 <td id="deadlineTableRow">
                 <td>
                   Student Project Presentation: <a href="project_presentations/CSC2541_VahidBalazadeh_TomGinsberg_KorbinianKoch_VasudevSharma_ProjectPresentation.pdf" target="_blank">DisCeRn: Disease-Contrastive Representations from Multi-Modal Medical Data</a> (Vahid Balazadeh, Tom Ginsberg, Korbinian Koch, Vasudev Sharma)
@@ -576,6 +572,43 @@ export default function Home() {
                 </td>
                 <td id="deadlineTableRow"></td>
               </tr> */}
+
+            {/* WEEK 14 */}
+            <tr>
+                <td colSpan="3" align="center"><b>Week 14: Student Presentations</b></td>
+              </tr>
+              <tr>
+                <td>11/30/2023 (Thursday)</td>
+                <td>
+                <td>Student Project Presentations:</td>
+                <br></br>
+                <br></br>
+                <td>Student Project Presentations:</td>
+                <br></br>
+                <br></br>
+                <td>Student Project Presentations:</td>
+                <br></br>
+                <br></br>
+                <td>Student Project Presentations:</td>
+                </td>
+                <td></td>
+                <td></td>
+              </tr>
+              <tr>
+                <td id="deadlineTableRow">12/07/2021 (Wednesday)</td>
+                <td id="deadlineTableRow">
+                {/* <td>
+                  Student Project Presentation: <a href="project_presentations/CSC2541_VahidBalazadeh_TomGinsberg_KorbinianKoch_VasudevSharma_ProjectPresentation.pdf" target="_blank">DisCeRn: Disease-Contrastive Representations from Multi-Modal Medical Data</a> (Vahid Balazadeh, Tom Ginsberg, Korbinian Koch, Vasudev Sharma)
+                  <br></br>
+                  <br></br>
+                  Student Project Presentation: <a href="project_presentations/CSC2541_RuijingZeng_TongziWu_WeimingRen_TianshuZhu_ProjectPresentation.pdf" target="_blank">Towards Transformer-Based Automated ICD Coding: Challenges, Pitfalls and Solutions</a> (Ruijing Zeng, Tongzi Wu, Weiming Ren, Tianshu Zhu)
+                </td> */}
+                <td></td>
+                  <br></br>
+                  <b>Project Final Report Due</b>
+                </td>
+                <td id="deadlineTableRow"></td>
+              </tr>
             </tbody>
           </Table>
         </Page>
