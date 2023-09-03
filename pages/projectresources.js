@@ -11,10 +11,14 @@ export default function Home() {
         <Page>
           <h2>Project Resources</h2>
           <p>Below, we've aggregated some resources which we hope you will find useful as you work on your final projects. This list of resources will be continually updated throughout the semester.</p>
+          <h5>T-CAIREM</h5>
+          <h6><a href="https://tcairem.utoronto.ca/resource-hub-1" target="_blank">T-CAIREM</a></h6>
+          <p>T-CAIREM is the Temerty Center for AI in Medicine, and has several resources for books, textbooks, reports, and research papers in AI in medicine.  </p>
           <h5>Datasets</h5>
           <h6><a href="https://physionet.org/content/" target="_blank">PhysioNet</a></h6>
           <p>PhysioNet presents a repository of medical research data. We would especially draw your attention to the following:</p>
           <ul>
+          <li><a href="https://physionet.org/about/tutorial/" target="_blank">PhysioNet Tutorial</a> - collection of tutorials for getting started with physionet.</li>
           <li><a href="https://physionet.org/news/post/352" target="_blank">MIMIC-IV</a> - comprehensive clinical information on hospital stays for patients admitted to a tertiary academic medical center in Boston, MA. (Helpful tutorials on accessing and working with MIMIC-IV: <a href="https://alistairewj.github.io/publication/johnson-2019-mimic/" target="_blank">publication</a>, <a href="https://alistairewj.github.io/talk/2020-mimic-iv-analysis-tutorial/ " target="_blank">analysis tutorial</a>, <a href="https://alistairewj.github.io/talk/2020-mimic-iv-data-tutorial/" target="_blank">data tutorial</a>).</li>
           <li><a href="https://physionet.org/content/hirid/1.1.1/" target="_blank">HiRID</a> - critical care dataset containing data relating to almost 34 thousand patient admissions to the Department of Intensive Care Medicine of the Bern University Hospital.</li>
           <li><a href="https://physionet.org/content/mimic-cxr/2.0.0/" target="_blank">MIMIC CXR</a> - dataset of chest radiographs in DICOM format with free-text radiology reports.</li>

@@ -89,7 +89,7 @@ export default function Home() {
               </tr>
               <tr>
                 <td>09/14/2023 (Thursday)</td>
-                {/* <td>Lecture: <a>Supervised Learning in Healthcare I</a> <i>(Rahul Krishnan)</i></td> */}
+                <td>Lecture: <a>Supervised Learning and Survival Analysis</a> <i>(Rahul Krishnan)</i></td>
                 {/* <td rowSpan="1" style={{verticalAlign: "middle"}}> */}
                 <td rowSpan="1">
                   {makeLink("mandatory", 
@@ -341,7 +341,7 @@ export default function Home() {
                 </td>
               </tr> */}
               <tr>
-                <td id="deadlineTableRow">10/29/2023 (Friday)</td>
+                <td id="deadlineTableRow">10/26/2023 (Thursday)</td>
                 <td id="deadlineTableRow">
                   {/* Student Paper Presentation: <a href="paper_presentations/CSC2541_ShujunYan_DianaKan_PaperPresentation.pdf" target="_blank">Fully Automated Echocardiogram Interpretation in Clinical Practice</a> <i>(Shujun Yan, Dianna Kan)</i>
                   <br></br>
