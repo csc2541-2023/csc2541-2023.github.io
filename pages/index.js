@@ -26,6 +26,13 @@ export default function Home() {
           <h3>Announcements</h3>
            {/* Alert for checking out project resources. */}
            <Alert variant="info">
+             Note that our new location is BA2155
+             <br></br>
+             <div align="right">
+               <small>September 11, 2023</small>
+             </div>
+           </Alert>
+           <Alert variant="info">
              The first day of classes will be Thursday, September 14, 2023!
              <br></br>
              <div align="right">
