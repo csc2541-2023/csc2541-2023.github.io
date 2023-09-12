@@ -47,7 +47,7 @@ export default function CourseOverview() {
             <b>Time: </b> Thursday 9:00 AM - 11:00 AM.
         </div>
         <div>
-            <b>Location: </b><a href="https://goo.gl/maps/F8FKxjCERPPzPn4N8" target="_blank">BA2155</a> afterwards.
+            <b>Location: </b><a href="https://goo.gl/maps/F8FKxjCERPPzPn4N8" target="_blank">BA2155</a>
         </div>
         <div>
             <b>Office Hours:</b>
