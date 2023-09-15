@@ -89,7 +89,7 @@ export default function Home() {
               </tr>
               <tr>
                 <td>09/21/2023 (Thursday)</td>
-                <td>Lecture: <a>Supervised Learning and Survival Analysis</a> <i>(Rahul Krishnan)</i></td>
+                <td>Lecture: <a href="/lectures/lecture2-sup_surv_analysis.pdf" target="_blank">Supervised Learning and Survival Analysis</a> <i>(Rahul Krishnan)</i></td>
                 {/* <td rowSpan="1" style={{verticalAlign: "middle"}}> */}
                 <td rowSpan="1">
                   {makeLink("mandatory", 
