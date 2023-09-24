@@ -118,7 +118,7 @@ export default function Home() {
                 <td colSpan="3" align="center"><b>Week 3: In-person Project Planning</b></td>
               </tr>
               <tr>
-                <td>09/28/2023 (Thursday)</td>
+                {/* <td>09/28/2023 (Thursday)</td> */}
                 {/* <td>Lecture: <a>Time Series Modeling in Healthcare I</a> <i>(Rahul Krishnan)</i></td> */}
                 {/* <td rowSpan="1">
                 {makeLink("mandatory", 
@@ -142,11 +142,11 @@ export default function Home() {
                   "Understanding vasopressor intervention and... (Wu, Ghassemi et al.)")}
                 </td> */}
               </tr>
-              {/* <tr>
-                <td>09/28/2023 (Thursday)</td>
-                <td>Lecture: <a href="lectures/csc2541_lecture5-ts_learning2.pdf" target="_blank">Time Series Modeling in Healthcare II</a> <i>(Rahul Krishnan)</i></td>
-              </tr>
               <tr>
+                <td>09/28/2023 (Thursday)</td>
+                <td>Lecture: <a href="lectures/lecture3.pdf" target="_blank">Project Planning Session</a> <i>(Rahul Krishnan & Sujay Nagaraj)</i></td>
+              </tr>
+              {/* <tr>
                 <td>09/24/2021 (Friday)</td>
                 <td>Project Planning Session II</td>
               </tr> */}
