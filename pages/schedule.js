@@ -156,32 +156,16 @@ export default function Home() {
               </tr>
               <tr>
                 <td>10/05/2023 (Thursday)</td>
-                {/* <td>Guest Lecture: <a>Discovery of Parkinson’s Disease States Using Machine Learning and Longitudinal Data</a> <i> (Kristen Severson)</i></td> */}
-                {/* <td rowSpan="1">
+                <td>Guest Lecture: <a>Time Series Modelling</a> <i> (Sana Tonekaboni)</i></td>
+                <td rowSpan="1">
                   {makeLink("mandatory", 
-                  "https://arxiv.org/abs/2102.11218", 
-                  "Neural Pharmacodynamic State Space Modeling (Hussain et al.)")}
-                  <br></br>
-                  {makeLink("mandatory", 
-                  "https://www.nature.com/articles/s41467-018-05892-0", 
-                  "Uncovering the heterogeneity and temporal... (Young et al.)")}
+                  "https://www.nature.com/articles/s41598-018-24271-9", 
+                  "Recurrent Neural Networks for Multivariate Time Series... (Che et al.)")}
                   <br></br>
                   {makeLink("mandatory", 
-                  "https://arxiv.org/abs/1807.04709", 
-                  "Inferring Multidimensional Rates of Aging... (Pierson et al.)")}
-                  <br></br>
-                  {makeLink("optional", 
-                  "https://people.csail.mit.edu/dsontag/papers/WanSonWan_kdd14.pdf", 
-                  "Unsupervised Learning of Disease Progression... (Wang et al.)")}
-                  <br></br>
-                  {makeLink("optional",
-                  "https://www.nature.com/articles/s41598-019-49656-2",
-                  "Machine learning for comprehensive forecasting... (Fisher et al.)")}
-                  <br></br>
-                  {makeLink("optional",
-                  "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4191837/",
-                  "Modeling Disease Progression via Fused Sparse... (Zhou et al.)")}
-                </td> */}
+                  "https://www.nature.com/articles/s41562-020-01046-9", 
+                  "Daily, weekly, seasonal cycles in mood, behaviour and vital signs (Pierson et al.)")}
+                </td>
               </tr>
               <tr>
                 <td id="deadlineTableRow">10/05/2023 (Thursday)</td>
