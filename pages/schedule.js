@@ -169,7 +169,7 @@ export default function Home() {
               </tr>
               <tr>
                 <td>10/05/2023 (Thursday)</td>
-                <td>Guest Lecture: <a>Representation Learning in Healthcare Tiem-Series</a> <i> (Sana Tonekaboni)</i></td>
+                <td>Guest Lecture: <a>Representation Learning in Healthcare Time-Series</a> <i> (Sana Tonekaboni)</i></td>
               </tr>
               <tr>
                 <td id="deadlineTableRow">10/05/2023 (Thursday)</td>
