@@ -157,7 +157,6 @@ export default function Home() {
               <tr>
                 <td>10/05/2023 (Thursday)</td>
                 <td>Lecture: <a href="/lectures/lecture4-ts_learning1.pdf" target="_blank">Time-Series Data in Healthcare</a> <i>(Rahul Krishnan)</i></td>
-                <td>Guest Lecture: <a>Time-Series Modelling</a> <i> (Sana Tonekaboni)</i></td>
                 <td rowSpan="1">
                   {makeLink("mandatory", 
                   "https://www.nature.com/articles/s41598-018-24271-9", 
@@ -167,6 +166,9 @@ export default function Home() {
                   "https://www.nature.com/articles/s41562-020-01046-9", 
                   "Daily, weekly, seasonal cycles in mood, behaviour and vital signs (Pierson et al.)")}
                 </td>
+              </tr>
+              <tr>
+                <td>Guest Lecture: <a>Time-Series Modelling</a> <i> (Sana Tonekaboni)</i></td>
               </tr>
               <tr>
                 <td id="deadlineTableRow">10/05/2023 (Thursday)</td>
