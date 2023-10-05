@@ -14,7 +14,7 @@ export default function Home() {
         <p>This offering of CSC2541 will contain the following assignments (shown below with their grading breakdowns).</p>
 
         <h4><a href="assignments/papersummary">Paper Summary Assignment (20%)</a></h4>
-        <h6>Due: October 26, 2023, at 11:59PM ET.</h6>
+        <h6>Due: November 2, 2023, at 11:59PM ET.</h6>
         <p>In this assignment, you will summarize four papers from the required reading for this course.</p>
 
         {/* <h4><a href="assignments/paperpresentation">Paper Presentation Assignment (15%)</a></h4>
