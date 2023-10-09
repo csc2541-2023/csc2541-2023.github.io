@@ -341,7 +341,12 @@ export default function Home() {
                 <td>11/16/2023 (Thursday)</td>
                 <td>Lecture: <a>Causality</a> <i>(Rahul Krishnan)</i></td>
               </tr>
-              <td>
+              <tr>
+                <td colSpan="3" align="center"><b>Week 11: Student Presentations</b></td>
+              </tr>
+              <tr>
+                <td>11/23/2023 (Thursday)</td>
+                <td>
                 <td>Student Project Presentations: TBD</td>
                 <br></br>
                 <br></br>
@@ -350,6 +355,8 @@ export default function Home() {
                 <br></br>
                 <td>Student Project Presentations: TBD</td>
                 </td>
+                <td></td>
+              </tr>
 
               {/* WEEK 11 */}
               <tr>
