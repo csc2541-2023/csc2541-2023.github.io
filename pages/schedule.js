@@ -191,21 +191,21 @@ export default function Home() {
                 <td colSpan="3" align="center"><b>Week 5: Clinical NLP and LLMs</b></td>
               </tr>
               <tr>
-                <td>10/12/2023 (Monday)</td>
-                {/* <td>Lecture: <a> Clinical Natural Language Processing</a> <i>(Rahul Krishnan)</i></td> */}
-                {/* <td rowSpan="1">
+                <td>10/12/2023 (Thursday)</td>
+                <td>Lecture: <a> Clinical Natural Language Processing</a> <i>(Rahul Krishnan)</i></td>
+                <td rowSpan="1">
                 {makeLink("mandatory", 
-                  "https://arxiv.org/pdf/1706.03762.pdf", 
-                  "Attention Is All You Need (Vaswani et al.)")}
+                  "https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000198&fbclid=IwAR3U9R0A5QwAVMACFfgA79EFYWu32uFE8upittW5ZEb9qaNSZyWXpxdnJU4", 
+                  "CHAT GPT for USMLE")}
                   <br></br>
                   {makeLink("mandatory", 
-                  "https://arxiv.org/pdf/1810.04805.pdf", 
-                  "BERT: Pre-training of Deep Bidirectional... (Devlin et al.)")}
-                  <br></br>
-                  {makeLink("mandatory", 
-                  "https://arxiv.org/abs/1901.08746", 
-                  "BioBERT: a pre-trained biomedical language... (Lee et al.)")}
-                </td> */}
+                  "https://arxiv.org/abs/2005.14165", 
+                  "GPT-3 Paper")}
+                </td>
+              </tr>
+              <tr>
+                <td>10/12/2023 (Thursday)</td>
+                <td>Guest Lecture: <a>Clinical Deployment</a> <i> (Sujay Nagaraj)</i></td>
               </tr>
               {/* <tr>
                 <td>10/06/2021 (Wednesday)</td>
