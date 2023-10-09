@@ -174,12 +174,6 @@ export default function Home() {
               <tr>
                 <td id="deadlineTableRow">10/05/2023 (Thursday)</td>
                 <td id="deadlineTableRow">
-                {/* <td>
-                  Student Project Presentation: <a href="project_presentations/CSC2541_VahidBalazadeh_TomGinsberg_KorbinianKoch_VasudevSharma_ProjectPresentation.pdf" target="_blank">DisCeRn: Disease-Contrastive Representations from Multi-Modal Medical Data</a> (Vahid Balazadeh, Tom Ginsberg, Korbinian Koch, Vasudev Sharma)
-                  <br></br>
-                  <br></br>
-                  Student Project Presentation: <a href="project_presentations/CSC2541_RuijingZeng_TongziWu_WeimingRen_TianshuZhu_ProjectPresentation.pdf" target="_blank">Towards Transformer-Based Automated ICD Coding: Challenges, Pitfalls and Solutions</a> (Ruijing Zeng, Tongzi Wu, Weiming Ren, Tianshu Zhu)
-                </td> */}
                 <td></td>
                   <br></br>
                   <b>Project Proposal Due</b>
@@ -316,16 +310,13 @@ export default function Home() {
               <tr>
                 <td id="deadlineTableRow">11/02/2023 (Thursday)</td>
                 <td id="deadlineTableRow">
-                  {/* Student Paper Presentation: <a href="paper_presentations/CSC2541_ShujunYan_DianaKan_PaperPresentation.pdf" target="_blank">Fully Automated Echocardiogram Interpretation in Clinical Practice</a> <i>(Shujun Yan, Dianna Kan)</i>
-                  <br></br>
-                  <br></br>
-                  Student Paper Presentation: <a href="paper_presentations/CSC2541_VasudevSharma_FatemeHaghpanah_PaperPresentation.pdf" target="_blank">U-Net: Convolutional Networks for Biomedical Image Segmentation</a> <i>(Fateme Haghpanah, Vasudev Sharma)</i>
-                  <br></br>
-                  <br></br> */}
+                <td></td>
                   <br></br>
                   <b>Paper Summary Assignment Due</b>
                 </td>
+                <td id="deadlineTableRow"></td>
               </tr>
+              
               {/* WEEK 9 */}
               <tr>
                 <td colSpan="3" align="center"><b>Week 9: Reading Week (No Classes)</b></td>
