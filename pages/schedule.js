@@ -433,26 +433,6 @@ export default function Home() {
               </tr> */}
 
             {/* WEEK 13 */}
-            <tr>
-                <td colSpan="3" align="center"><b>Week 13: Student Presentations</b></td>
-              </tr>
-              <tr>
-                <td>12/07/2023 (Thursday)</td>
-                <td>
-                <td>Student Project Presentations:</td>
-                <br></br>
-                <br></br>
-                <td>Student Project Presentations:</td>
-                <br></br>
-                <br></br>
-                <td>Student Project Presentations:</td>
-                <br></br>
-                <br></br>
-                <td>Student Project Presentations:</td>
-                </td>
-                <td></td>
-                <td></td>
-              </tr>
               <tr>
                 <td id="deadlineTableRow">12/07/2023 (Thursday)</td>
                 <td id="deadlineTableRow">
