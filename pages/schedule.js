@@ -226,19 +226,20 @@ export default function Home() {
               </tr>
               <tr>
                 <td>10/19/2023 (Thursday)</td>
-                {/* <td rowSpan="1">
+                <td>Lecture: <a> Medical Imaging and SSL</a> <i>(Rahul Krishnan)</i></td>
+                <td rowSpan="1">
                 {makeLink("mandatory", 
-                  "https://arxiv.org/abs/1912.08142", 
-                  "Causality matters in medical imaging (Castro et al.)")}
+                  "https://www.nature.com/articles/s41551-022-00914-1", 
+                  "SSL in Healthcare (Krishnan et al.)")}
                   <br></br>
                   {makeLink("mandatory", 
-                  "https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.118.034338", 
-                  "Fully Automated Echocardiogram Interpretation... (Zhang et al.)")}
-                   <br></br>
-                  {makeLink("optional", 
-                  "https://arxiv.org/pdf/1505.04597.pdf", 
-                  "U-Net: Convolutional Networks for Biomedical... (Ronneberger et al.)")}
-                </td> */}
+                  "https://arxiv.org/abs/1711.05225", 
+                  "CHEXNET (Rajpurkar et al.)")}
+                </td>
+              </tr>
+              <tr>
+                <td>10/19/2023 (Thursday)</td>
+                <td>Guest Lecture: Medical Imaging<a></a> <i> (Richard Chen)</i></td>
               </tr>
              {/*  <tr>
                 <td>10/13/2021 (Wednesday)</td>
@@ -254,32 +255,20 @@ export default function Home() {
               </tr>
               <tr>
                 <td>10/26/2023 (Thursday)</td>
-                {/* <td>Lecture: <a>Self-Supervised Learning</a> <i>(Rahul Krishnan)</i></td> */}
-                {/* <td rowSpan="1">
+                <td>Lecture: <a>Clinical Deployment</a> <i>(Rahul Krishnan)</i></td>
+                <td rowSpan="1">
                   {makeLink("mandatory", 
-                  "https://arxiv.org/pdf/1810.03993.pdf", 
-                  "Model Cards for Model Reporting (Mitchell et al.)")}
+                  "https://www.nature.com/articles/s41591-022-01895-z", 
+                  "Factors Driving adoption of TREWS (Henry et al.)")}
                   <br></br>
                   {makeLink("mandatory", 
-                  "https://arxiv.org/pdf/1810.08810.pdf", 
-                  "The Frontiers of Fairness... (Chouldechova and Roth)")}
-                  <br></br>
-                  {makeLink("mandatory",
-                  "https://dl.acm.org/doi/10.1145/2783258.2788613",
-                  "Intelligible Models for Healthcare: ... (Caruana et al.)")}
-                  <br></br>
-                  {makeLink("optional", 
-                  "https://arxiv.org/pdf/1803.09010.pdf", 
-                  "Datasheets for Datasets (Gebru et al.)")}
-                  <br></br>
-                  {makeLink("optional", 
-                  "https://arxiv.org/pdf/1705.07874.pdf", 
-                  "A Unified Approach to Interpreting Model... (Lundberg and Lee)")}
-                  <br></br>
-                  {makeLink("optional", 
-                  "https://arxiv.org/pdf/1703.04730.pdf", 
-                  "Understanding Black-box Predictions via... (Koh and Liang)")}
-                </td> */}
+                  "https://proceedings.mlr.press/v106/tonekaboni19a.html", 
+                  "What clinicians want (Tonekaboni et al.)")}
+                </td>
+              </tr>
+              <tr>
+                <td>10/26/2023 (Thursday)</td>
+                <td>Guest Lecture: Clinical LLMs<a></a> <i> (Monica Agarwal)</i></td>
               </tr>
               {/* <tr>
                 <td>10/20/2021 (Wednesday)</td>
@@ -300,25 +289,18 @@ export default function Home() {
               </tr>
               <tr>
                 <td>11/02/2023 (Thursday)</td>
-                {/* <td>Guest Lecture: <a>Machine Learning for Equitable Healthcare</a> <i>(Irene Chen)</i></td> */}
-                {/* <td rowSpan="1">
+                <td>Lecture: <a>Fairness in ML4H</a> <i>(Rahul Krishnan)</i></td>
+                <td rowSpan="1">
                 {makeLink("mandatory", 
-                  "https://www.science.org/doi/abs/10.1126/science.aax2342", 
-                  "Dissecting racial bias in an algorithm... (Obermeyer et al.)")}
+                  "https://www.annualreviews.org/doi/abs/10.1146/annurev-biodatasci-092820-114757", 
+                  "Ethical Machine Learning in HC (Chen et al.)")}
                   <br></br>
                   {makeLink("mandatory", 
-                  "https://www.acpjournals.org/doi/10.7326/M18-1990", 
-                  "Ensuring Fairness in Machine Learning to... (Rajomar et al.)")}
-                  <br></br>
-                  {makeLink("optional", 
-                  "https://arxiv.org/pdf/1805.12002.pdf", 
-                  "Why Is My Classifier Discriminatory? (Chen et al.)")}
-                  <br></br>
-                  {makeLink("optional", 
-                  "https://jamanetwork.com/journals/jamadermatology/article-abstract/2688587", 
-                  "Machine Learning and Health Care Disparities... (Adamson and Smith)")}
-                </td> */}
+                  "https://www.science.org/doi/abs/10.1126/science.aax2342", 
+                  "Dissecting racial bias (Obermeyer et al.)")}
+                </td>
               </tr>
+              <td>Guest Lecture: Fairness<a></a> <i> (Haoran Zhang)</i></td>
               {/* <tr>
                 <td>10/27/2021 (Wednesday)</td>
                 <td>
@@ -354,64 +336,38 @@ export default function Home() {
               </tr>
               <tr>
                 <td>11/16/2023 (Thursday)</td>
-                {/* <td>Lecture: <a>Clinical Trials</a> <i>(Rahul Krishnan)</i></td> */}
-                {/* <td rowSpan="1">
-                {makeLink("mandatory", 
-                  "https://trialsjournal.biomedcentral.com/articles/10.1186/s13063-021-05489-x", 
-                  "The role of machine learning in clinical research... (Weissler et al.)")}
-                  <br></br>
-                  {makeLink("mandatory", 
-                  "https://www.nature.com/articles/s41586-021-03430-5", 
-                  "Evaluating eligibility criteria of oncology... (Liu et al.)")}
-                  <br></br>
-                  {makeLink("mandatory", 
-                  "https://arxiv.org/pdf/2003.06474.pdf", 
-                  "Optimizing Medical Treatment for Sepsis in... (Li et al.)")}
-                  <br></br>
-                  {makeLink("optional", 
-                  "https://www.nature.com/articles/s41746-019-0148-3", 
-                  "Artificial intelligence and machine learning in clinical... (Shah et al.)")}
-                  <br></br>
-                  {makeLink("optional", 
-                  "https://www.nature.com/articles/s41591-018-0310-5", 
-                  "Guidelines for reinforcement learning in healthcare (Gottesman et al.)")}
-                </td> */}
+                <td>Lecture: <a>Causality</a> <i>(Rahul Krishnan)</i></td>
               </tr>
-             {/*  <tr>
-                <td>11/03/2021 (Wednesday)</td>
-                <td>
-                  Student Paper Presentation: <a href="paper_presentations/CSC2541_PritishMishra_PaperPresentation.pdf" target="_blank">Datasheets for Datasets</a> <i>(Pritish Mishra)</i>
-                  <br></br>
-                  <br></br>
-                  Student Paper Presentation: <a href="paper_presentations/CSC2541_NikhilVerma_DeepkamalGill_PaperPresentation.pdf" target="_blank">Intelligible Models for HealthCare: Predicting Pneumonia Risk and Hospital 30-day Readmission</a> <i>(Nikhil Verma, Deepkamal Gill)</i>
+              <td>
+                <td>Student Project Presentations: TBD</td>
+                <br></br>
+                <br></br>
+                <td>Student Project Presentations: TBD</td>
+                <br></br>
+                <br></br>
+                <td>Student Project Presentations: TBD</td>
                 </td>
-              </tr>
-              <tr>
-                <td>11/05/2021 (Friday)</td>
-                <td>
-                  Student Paper Presentation: <a href="paper_presentations/CSC2541_SantoshKolagati_OmkarDige_PaperPresentation.pdf" target="_blank">Dissecting Racial Bias in an Algorithm Used to Manage the Health of Populations</a> <i>(Santosh Kolagati, Omkar Dige)</i>
-                  <br></br>
-                  <br></br>
-                  Student Paper Presentation: <a href="paper_presentations/CSC2541_CarolineMalinMayor_FilipMiscevic_PaperPresentation.pdf" target="_blank">Why Is My Classifier Discriminatory?</a> <i>(Filip Miscevic, Caroline Malin-Mayor)</i>
-                </td>
-              </tr> */}
+
               {/* WEEK 11 */}
               <tr>
                 <td colSpan="3" align="center"><b>Week 11: Student Presentations</b></td>
               </tr>
               <tr>
-                <td>11/23/2023 (Monday)</td>
+                <td>11/23/2023 (Thursday)</td>
                 <td>
-                <td>Student Project Presentations:</td>
+                <td>Student Project Presentations: TBD</td>
                 <br></br>
                 <br></br>
-                <td>Student Project Presentations:</td>
+                <td>Student Project Presentations: TBD</td>
                 <br></br>
                 <br></br>
-                <td>Student Project Presentations:</td>
+                <td>Student Project Presentations: TBD</td>
                 <br></br>
                 <br></br>
-                <td>Student Project Presentations:</td>
+                <td>Student Project Presentations: TBD</td>
+                <br></br>
+                <br></br>
+                <td>Student Project Presentations: TBD</td>
                 </td>
                 <td></td>
               </tr>
@@ -442,16 +398,19 @@ export default function Home() {
               <tr>
                 <td>11/30/2023 (Thursday)</td>
                 <td>
-                <td>Student Project Presentations:</td>
+                <td>Student Project Presentations: TBD</td>
                 <br></br>
                 <br></br>
-                <td>Student Project Presentations:</td>
+                <td>Student Project Presentations: TBD</td>
                 <br></br>
                 <br></br>
-                <td>Student Project Presentations:</td>
+                <td>Student Project Presentations: TBD</td>
                 <br></br>
                 <br></br>
-                <td>Student Project Presentations:</td>
+                <td>Student Project Presentations: TBD</td>
+                <br></br>
+                <br></br>
+                <td>Student Project Presentations: TBD</td>
                 </td>
                 <td></td>
                 <td></td>
