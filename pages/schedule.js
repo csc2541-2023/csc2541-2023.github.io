@@ -300,7 +300,10 @@ export default function Home() {
                   "Dissecting racial bias (Obermeyer et al.)")}
                 </td>
               </tr>
-              <td>Guest Lecture: Fairness<a></a> <i> (Haoran Zhang)</i></td>
+              <tr>
+                <td>11/02/2023 (Thursday)</td>
+                <td>Guest Lecture: Fairness<a></a> <i> (Haoran Zhang)</i></td>
+              </tr>
               {/* <tr>
                 <td>10/27/2021 (Wednesday)</td>
                 <td>
