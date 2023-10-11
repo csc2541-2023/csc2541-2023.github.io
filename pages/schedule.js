@@ -186,7 +186,7 @@ export default function Home() {
               </tr>
               <tr>
                 <td>10/12/2023 (Thursday)</td>
-                <td>Lecture: <a href="/lectures/lecture4-nlp.pdf" target="_blank">Clinical Natural Language Processingg</a> <i>(Rahul Krishnan)</i></td>
+                <td>Lecture: <a href="/lectures/lecture4-nlp.pdf" target="_blank">Clinical Natural Language Processing</a> <i>(Rahul Krishnan)</i></td>
                 <td rowSpan="1">
                 {makeLink("mandatory", 
                   "https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000198&fbclid=IwAR3U9R0A5QwAVMACFfgA79EFYWu32uFE8upittW5ZEb9qaNSZyWXpxdnJU4", 
