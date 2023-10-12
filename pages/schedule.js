@@ -199,7 +199,7 @@ export default function Home() {
               </tr>
               <tr>
                 <td>10/12/2023 (Thursday)</td>
-                <td>Guest Lecture: <a>Clinical Deployment</a> <i> (Sujay Nagaraj)</i></td>
+                <td>Guest Lecture: <a href="/lectures/Clinical Deployment - ML4H Guest Lecture.pdf" target="_blank">Clinical Deployment</a> <i>(Sujay Nagaraj)</i></td>
               </tr>
               {/* <tr>
                 <td>10/06/2021 (Wednesday)</td>
