@@ -169,7 +169,7 @@ export default function Home() {
               </tr>
               <tr>
                 <td>10/05/2023 (Thursday)</td>
-                <td>Guest Lecture: <a>Representation Learning in Healthcare Time-Series</a> <i> (Sana Tonekaboni)</i></td>
+                <td>Guest Lecture: <a href="/lectures/sana_guest_lecture.pdf" target="_blank">Representation Learning in Healthcare Time-Series</a> <i>(Sana Tonekaboni)</i></td>
               </tr>
               <tr>
                 <td id="deadlineTableRow">10/05/2023 (Thursday)</td>
@@ -220,7 +220,7 @@ export default function Home() {
               </tr>
               <tr>
                 <td>10/19/2023 (Thursday)</td>
-                <td>Lecture: <a> Medical Imaging and SSL</a> <i>(Rahul Krishnan)</i></td>
+                <td>Lecture: <a href="/lectures/lecture5-medical_imaging.pdf" target="_blank">Medical Imaging</a> <i>(Rahul Krishnan)</i></td>
                 <td rowSpan="1">
                 {makeLink("mandatory", 
                   "https://www.nature.com/articles/s41551-022-00914-1", 
