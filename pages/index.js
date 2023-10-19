@@ -26,7 +26,7 @@ export default function Home() {
           <h3>Announcements</h3>
            {/* Alert for checking out project resources. */}
            <Alert variant="info">
-            Sign up for final project presentations here (first-come first-serve): 
+            Sign up for final project presentations here (first-come first-serve):  
             <a href="https://docs.google.com/spreadsheets/d/1xpBEfohvmErgX1CuCWrr3znGroR7JWNWv_arwe9aQsU/edit#gid=0" target="_blank">Sign-up Schedule</a>.
             
              <br></br>
