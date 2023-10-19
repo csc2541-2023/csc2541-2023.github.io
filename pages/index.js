@@ -26,6 +26,14 @@ export default function Home() {
           <h3>Announcements</h3>
            {/* Alert for checking out project resources. */}
            <Alert variant="info">
+            Sign up for final project presentations here (first-come first-serve): 
+            https://docs.google.com/spreadsheets/d/1xpBEfohvmErgX1CuCWrr3znGroR7JWNWv_arwe9aQsU/edit#gid=0
+             <br></br>
+             <div align="right">
+               <small>October 19, 2023</small>
+             </div>
+           </Alert>
+           <Alert variant="info">
              Note that our new location is BA2155
              <br></br>
              <div align="right">
