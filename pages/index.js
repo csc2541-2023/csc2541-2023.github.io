@@ -27,7 +27,8 @@ export default function Home() {
            {/* Alert for checking out project resources. */}
            <Alert variant="info">
             Sign up for final project presentations here (first-come first-serve): 
-            https://docs.google.com/spreadsheets/d/1xpBEfohvmErgX1CuCWrr3znGroR7JWNWv_arwe9aQsU/edit#gid=0
+            <a href="https://docs.google.com/spreadsheets/d/1xpBEfohvmErgX1CuCWrr3znGroR7JWNWv_arwe9aQsU/edit#gid=0" target="_blank">Sign-up Schedule</a>.
+            
              <br></br>
              <div align="right">
                <small>October 19, 2023</small>
