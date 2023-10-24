@@ -262,7 +262,7 @@ export default function Home() {
               </tr>
               <tr>
                 <td>10/26/2023 (Thursday)</td>
-                <td>Guest Lecture: Clinical LLMs<a></a> <i> (Monica Agarwal)</i></td>
+                <td>Guest Lecture: Clinical LLMs<a></a> <i> (Monica Agrawal)</i></td>
               </tr>
               {/* <tr>
                 <td>10/20/2021 (Wednesday)</td>
