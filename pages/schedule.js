@@ -296,7 +296,7 @@ export default function Home() {
               </tr>
               <tr>
                 <td>11/02/2023 (Thursday)</td>
-                <td>Guest Lecture: Fairness<a></a> <i> (Haoran Zhang)</i></td>
+                <td>Guest Lecture: <a href="/lectures/UofT ML4H Talk No Transitions.pdf" target="_blank">Fairness</a> <i>(Haoran Zhang)</i></td>
               </tr>
               {/* <tr>
                 <td>10/27/2021 (Wednesday)</td>
