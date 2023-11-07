@@ -330,7 +330,7 @@ export default function Home() {
               </tr>
               <tr>
                 <td>11/16/2023 (Thursday)</td>
-                <td>Lecture: <a>Causality</a> <i>(Rahul Krishnan)</i></td>
+                <td>Lecture: <a href="" target="_blank">RCTs</a> <i>(Rahul Krishnan)</i></td>
               </tr>
               <tr>
                 <td colSpan="3" align="center"><b>Week 11: Student Presentations</b></td>
